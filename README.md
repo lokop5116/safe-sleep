@@ -2,8 +2,8 @@
 
 Writing POSIX sleep() utility without any dependency- no stdio, no unistd, not even libc. Just some inline assembly magic.
 
-> [!> [!CAUTION]
-> Only supports x86_74 architecture.
+> [!CAUTION]
+> Only supports x86_64 architecture.
 
 ## Run Yourself
 
